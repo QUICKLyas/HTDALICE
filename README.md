@@ -1,4 +1,3 @@
 # HTDALICE
-# routers
+# routers js
 # python
-# js
